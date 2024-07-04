@@ -6,5 +6,7 @@
 - 🌱 I’m currently polishing my javascript techniques through project building 
 - 💞️ You'll find my repos here https://github.com/Shivangisriva?tab=repositories
 - 📫 You can connect with me through 02shivangisrivastava@gmail.com
+                               OR
+         https://www.linkedin.com/in/shivangi-srivastava-a8b1a1296/
 - ⚡ Fun fact: Sleepless nights may be by the dreams that make you not sleep...
 
