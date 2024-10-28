@@ -8,5 +8,5 @@
 - 📫 You can connect with me through 02shivangisrivastava@gmail.com
                                OR
          https://www.linkedin.com/in/shivangi-srivastava-a8b1a1296/
-- ⚡ Fun fact: Sleepless nights may be by the dreams that make you not sleep...
+- ⚡ Fun fact: Sleepless nights may be by the dreams that do not let you sleep...
 
