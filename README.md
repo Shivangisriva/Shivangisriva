@@ -17,7 +17,7 @@ Hi 👋 I'm Shivangi Srivastava<br><br>👋 Currently enjoying Web Development<b
 
 ## 🌟 Daily Motivation  
 
-<!-- QUOTE -->
+> ""
 > "Your motivational quote will appear here!"
 
 
