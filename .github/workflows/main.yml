@@ -11,9 +11,16 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
+      - name: Install jq  # Step to install jq
+        run: sudo apt-get install -y jq
+
       - name: Fetch Quote and Update README
         run: |
           QUOTE=$(curl -s "https://api.quotable.io/random" | jq -r '.content')
+          if [ -z "$QUOTE" ]; then
+            echo "Failed to fetch quote"
+            exit 1
+          fi
           sed -i "/<!-- QUOTE -->/c\> \"$QUOTE\"" README.md
 
       - name: Commit and Push
@@ -21,5 +28,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Updated Motivational Quote"
-          git push
+          git diff --cached --quiet || (git commit -m "Updated Motivational Quote" && git push)
