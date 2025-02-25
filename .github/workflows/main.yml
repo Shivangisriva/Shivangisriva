@@ -1,8 +1,8 @@
 name: Update Motivational Quote
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,7 +11,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Install jq  # Step to install jq
+      - name: Install jq
         run: sudo apt-get install -y jq
 
       - name: Fetch Quote and Update README
@@ -21,11 +21,12 @@ jobs:
             echo "Failed to fetch quote"
             exit 1
           fi
-          sed -i "/<!-- QUOTE -->/c\> \"$QUOTE\"" README.md
+          sed -i "s|<!-- QUOTE -->.*|<!-- QUOTE --> \"$QUOTE\"|" README.md
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git diff --cached --quiet || (git commit -m "Updated Motivational Quote" && git push)
+          git commit -m "Updated Motivational Quote" || echo "No changes to commit"
+          git push || echo "No changes to push"
