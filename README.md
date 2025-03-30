@@ -15,10 +15,7 @@ Hi 👋 I'm Shivangi Srivastava<br><br>👋 Currently enjoying Web Development<b
 ---
 [![](https://visitcount.itsvg.in/api?id=Shivangisriva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Daily Motivation  
 
-> ""
-> "Your motivational quote will appear here!"
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
