@@ -1,22 +1,60 @@
-# 💫 About Me:
-Hi 👋 I'm Shivangi Srivastava<br><br>👋 Currently enjoying Web Development<br>👀 I'm always ready to work and build new projects and gain knowledge through them<br>⚡ Fun fact: Sleepless nights may be by the dreams that do not let you sleep...
+# 👋 Hey there! I'm Shivangi Srivastava
 
+💻 Web Development Enthusiast | 🌱 Lifelong Learner | 🚀 Passionate Builder  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/02estrella_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangi-srivastava) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/11ashivangisrivastava) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivangisriva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shivangisriva&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangisriva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently diving deep into the world of **Web Development**, exploring modern tech stacks, and bringing ideas to life through projects.  
+Always curious, always building — because sleepless nights are made by the dreams that won't let you sleep.
 
 ---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangi-srivastava)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/02estrella_12)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/11ashivangisrivastava)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
+**Frontend & UI:**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
+**Backend & APIs:**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+
+**Database & Data Tools:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black)
+
+**Version Control:**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Shivangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivangisriva&show_icons=true&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivangisriva&theme=tokyonight&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangisriva&layout=compact&theme=tokyonight&hide_border=false)
+
+---
+
+## 🔢 Profile Visitors
 [![](https://visitcount.itsvg.in/api?id=Shivangisriva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- Crafted with 💙 using GPRM: https://gprm.itsvg.in -->
