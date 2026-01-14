@@ -9,11 +9,16 @@ Always curious, always building — because sleepless nights are made by the dre
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangi-srivastava)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivasri02/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/02estrella_12)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/11ashivangisrivastava)
 
 ---
+## 🌱 Fun Facts
+- Coffee enthusiast ☕  
+- Foody Person 📸  
+- Always learning something new 🚀
+
 **Languages & Tools:**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
@@ -42,6 +47,10 @@ Always curious, always building — because sleepless nights are made by the dre
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
+## 📫 Contact Me
+- Email: 02shivangisrivastava@gmail.com 
+- LinkedIn: [Shivangi Srivastava](https://www.linkedin.com/in/shivasri02/)
+
 
 ---
 
