@@ -48,9 +48,19 @@ Always curious, always building — because sleepless nights are made by the dre
 
 ---
 ## 🏆 Projects
-- [SkyGlimpse](https://github.com/Shivangisriva/SkyGlimpse) – Interactive weather app with animation
-- [Fusion & Flavours](https://github.com/Shivangisriva/Fusion-Flavours) – Recipe & flavor API integration
-- [Portfolio](https://shivangisriva.github.io/) – Personal portfolio website
+- [OweU](https://oweu.vercel.app/) – Checkout the FullStack Bill Splitting Website.
+- [Portfolio Website](https://www.shivasri.xyz/) – Hey find my portfolio here.
+- [TrekUp](https://shivangisriva.github.io/TrekUp-Travel-and-Cultural-Preservation-website/#) – Travel and Tourism website.
+- [HangMan Game](https://shivangisriva.github.io/Hangman-Game/) – Hangman Word Game.
+- [Coding Blog](https://shivangisriva.github.io/coding_blog/) - Coding Blog.
+- [Speech to Text Convertor](https://shivangisriva.github.io/Speech-to-text/) - Convert Speech to Text efficiently.
+- [Tic Tac Toe Game](https://shivangisriva.github.io/Tic-Tac-Toe/) - Tic Tac Toe Game.
+- [Password Generator]-() - Generate the Password efficiently now.
+- [SkyGlimpse]-() - Weather update application.
+- [Calci]-() - Basic calculator for fun.
+- [Todo Application]-()
+- [Quiz Application]-()
+- [Landing and Login Pages]-()
 
 ## 📫 Contact Me
 - Email: 02shivangisrivastava@gmail.com 
