@@ -57,7 +57,6 @@ Always curious, always building — because sleepless nights are made by the dre
 
 ---
 
-## 🔢 Profile Visitors
-[![](https://visitcount.itsvg.in/api?id=Shivangisriva&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Crafted with 💙 using GPRM: https://gprm.itsvg.in -->
