@@ -54,13 +54,17 @@ Always curious, always building — because sleepless nights are made by the dre
 - [HangMan Game](https://shivangisriva.github.io/Hangman-Game/) – Hangman Word Game.
 - [Coding Blog](https://shivangisriva.github.io/coding_blog/) - Coding Blog.
 - [Speech to Text Convertor](https://shivangisriva.github.io/Speech-to-text/) - Convert Speech to Text efficiently.
+- [SkyGlimpse](#) – Weather update application
+- [Currency Convertor](#) -Conveert your currency to from any to any type all around the world.
 - [Tic Tac Toe Game](https://shivangisriva.github.io/Tic-Tac-Toe/) - Tic Tac Toe Game.
 - [Password Generator](#) – Generate passwords efficiently
-- [SkyGlimpse](#) – Weather update application
 - [Calci](#) – Basic calculator for fun
 - [Todo Application](#)
 - [Quiz Application](#)
 - [Landing and Login Pages](#)
+- [Rock Paper Scissors Game](#)
+- [Amazon Clone](#)
+- [Clocks - Digital and Analog](#)
 
 ## 📫 Contact Me
 - Email: 02shivangisrivastava@gmail.com 
