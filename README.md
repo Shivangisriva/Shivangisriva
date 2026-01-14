@@ -46,19 +46,6 @@ Always curious, always building — because sleepless nights are made by the dre
 
 ---
 
-## 📊 GitHub Activity Stats
-
-<p align="center">
-  <!-- Pull Requests -->
-  ![Pull Requests](https://img.shields.io/github/issues-pr/Shivangisriva?style=for-the-badge&color=blue&label=PRs)
-
-  <!-- Commits -->
-  ![Commits](https://img.shields.io/github/commit-activity/y/Shivangisriva?style=for-the-badge&color=green&label=Commits)
-
-  <!-- Stars -->
-  ![Stars](https://img.shields.io/github/stars/Shivangisriva?style=for-the-badge&color=yellow&label=Stars)
-</p>
-
 ---
 
 
