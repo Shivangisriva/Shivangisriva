@@ -51,6 +51,7 @@ Always curious, always building — because sleepless nights are made by the dre
 - [OweU](https://oweu.vercel.app/) – Checkout the FullStack Bill Splitting Website.
 - [Portfolio Website](https://www.shivasri.xyz/) – Hey find my portfolio here.
 - [TrekUp](https://shivangisriva.github.io/TrekUp-Travel-and-Cultural-Preservation-website/#) – Travel and Tourism website.
+- [RideShield](#) - Our winning hardware based project.
 - [HangMan Game](https://shivangisriva.github.io/Hangman-Game/) – Hangman Word Game.
 - [Coding Blog](https://shivangisriva.github.io/coding_blog/) - Coding Blog.
 - [Speech to Text Convertor](https://shivangisriva.github.io/Speech-to-text/) - Convert Speech to Text efficiently.
