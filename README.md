@@ -55,12 +55,12 @@ Always curious, always building — because sleepless nights are made by the dre
 - [Coding Blog](https://shivangisriva.github.io/coding_blog/) - Coding Blog.
 - [Speech to Text Convertor](https://shivangisriva.github.io/Speech-to-text/) - Convert Speech to Text efficiently.
 - [Tic Tac Toe Game](https://shivangisriva.github.io/Tic-Tac-Toe/) - Tic Tac Toe Game.
-- [Password Generator]-(##) - Generate the Password efficiently now.
-- [SkyGlimpse]-(##) - Weather update application.
-- [Calci]-() - Basic calculator for fun.
-- [Todo Application]-()
-- [Quiz Application]-()
-- [Landing and Login Pages]-()
+- [Password Generator](#) – Generate passwords efficiently
+- [SkyGlimpse](#) – Weather update application
+- [Calci](#) – Basic calculator for fun
+- [Todo Application](#)
+- [Quiz Application](#)
+- [Landing and Login Pages](#)
 
 ## 📫 Contact Me
 - Email: 02shivangisrivastava@gmail.com 
