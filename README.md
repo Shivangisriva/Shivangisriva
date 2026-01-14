@@ -47,6 +47,11 @@ Always curious, always building — because sleepless nights are made by the dre
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
+## 🏆 Projects
+- [SkyGlimpse](https://github.com/Shivangisriva/SkyGlimpse) – Interactive weather app with animation
+- [Fusion & Flavours](https://github.com/Shivangisriva/Fusion-Flavours) – Recipe & flavor API integration
+- [Portfolio](https://shivangisriva.github.io/) – Personal portfolio website
+
 ## 📫 Contact Me
 - Email: 02shivangisrivastava@gmail.com 
 - LinkedIn: [Shivangi Srivastava](https://www.linkedin.com/in/shivasri02/)
