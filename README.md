@@ -46,14 +46,16 @@ Always curious, always building — because sleepless nights are made by the dre
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-79gjmzx06-shivangisrivas-projects.vercel.app/api?username=Shivangisriva&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats-79gjmzx06-shivangisrivas-projects.vercel.app/api/top-langs/?username=Shivangisriva&layout=compact&theme=tokyonight" />
-</p>
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivangisriva&show_icons=true&theme=tokyonight&count_private=true" alt="Shivangi's GitHub Stats" />
 
+  <!-- Top Languages -->
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangisriva&layout=compact&theme=tokyonight" alt="Shivangi's Top Languages" />
+</p>
 
 ---
 
