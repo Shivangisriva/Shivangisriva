@@ -46,20 +46,17 @@ Always curious, always building — because sleepless nights are made by the dre
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Activity Stats
 
 <p align="center">
-  <!-- Total Contributions Badge -->
-  ![GitHub Contributions](https://img.shields.io/github/commit-activity/y/Shivangisriva?style=for-the-badge&color=2bbc8a)
+  <!-- Pull Requests -->
+  ![Pull Requests](https://img.shields.io/github/issues-pr/Shivangisriva?style=for-the-badge&color=blue&label=PRs)
 
-  <!-- Followers Badge -->
-  ![Followers](https://img.shields.io/github/followers/Shivangisriva?style=for-the-badge&color=blue)
+  <!-- Commits -->
+  ![Commits](https://img.shields.io/github/commit-activity/y/Shivangisriva?style=for-the-badge&color=green&label=Commits)
 
-  <!-- Public Repos Badge -->
-  ![Repositories](https://img.shields.io/github/repos/Shivangisriva?style=for-the-badge&color=orange)
-
-  <!-- Stars Badge -->
-  ![Stars](https://img.shields.io/github/stars/Shivangisriva?style=for-the-badge&color=yellow)
+  <!-- Stars -->
+  ![Stars](https://img.shields.io/github/stars/Shivangisriva?style=for-the-badge&color=yellow&label=Stars)
 </p>
 
 ---
