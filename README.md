@@ -39,6 +39,4 @@ Always curious. Always improving. Always building.
 📩 02shivangisrivastava@gmail.com  
 
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shivangisriva&theme=github)
-
 ✨ *“Building today what I want to be known for tomorrow.”*
