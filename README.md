@@ -33,10 +33,14 @@ Always curious. Always improving. Always building.
 - 🔹 RideShield – Smart hardware-based safety project  
 
 ---
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivangisriva&theme=tokyonight)
 
 ## 📫 Contact  
 
 📩 02shivangisrivastava@gmail.com  
+
 
 ---
 ✨ *“Building today what I want to be known for tomorrow.”*
