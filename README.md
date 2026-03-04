@@ -38,5 +38,13 @@ Always curious. Always improving. Always building.
 
 📩 02shivangisrivastava@gmail.com  
 
+
+
+
+```
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivangisriva)](https://github.com/Shivangisriva)
+
+
+Want me to help with the setup?
 ---
 ✨ *“Building today what I want to be known for tomorrow.”*
