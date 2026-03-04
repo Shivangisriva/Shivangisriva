@@ -43,9 +43,10 @@ Always curious. Always improving. Always building.
 ![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-### 📌 PR Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivangisriva&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+### 📌 GitHub Stats
+
+![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivangisriva&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ---
 
