@@ -38,8 +38,6 @@ Always curious. Always improving. Always building.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shivangisriva&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Shivangisriva&theme=onedark&row=1&column=6)
-
 ## 📫 Contact  
 
 📩 02shivangisrivastava@gmail.com  
