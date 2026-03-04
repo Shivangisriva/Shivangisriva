@@ -44,15 +44,11 @@ Always curious. Always improving. Always building.
 
 ---
 
-### 📌 GitHub Stats
-
-![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivangisriva&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
----
 
 ## 📫 Contact  
 
 📩 02shivangisrivastava@gmail.com  
+
 ---
 
 ✨ *“Building today what I want to be known for tomorrow.”*
