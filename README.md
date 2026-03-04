@@ -33,15 +33,12 @@ Always curious. Always improving. Always building.
 - 🔹 RideShield – Smart hardware-based safety project  
 
 ---
-## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangisriva&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shivangisriva&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Shivangisriva&theme=tokyonight&no-frame=true&row=1&column=7)---
+![trophy](https://github-profile-trophy.vercel.app/?username=Shivangisriva&theme=onedark&row=1&column=6)
 
 ## 📫 Contact  
 
