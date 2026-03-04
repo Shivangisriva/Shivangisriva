@@ -42,6 +42,6 @@ Always curious. Always improving. Always building.
 
 📩 02shivangisrivastava@gmail.com  
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ✨ *“Building today what I want to be known for tomorrow.”*
