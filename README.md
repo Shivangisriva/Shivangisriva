@@ -41,6 +41,6 @@ Always curious. Always improving. Always building.
 
 📩 02shivangisrivastava@gmail.com  
 
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivangisriva&theme=tokyo-night)
 ---
 ✨ *“Building today what I want to be known for tomorrow.”*
