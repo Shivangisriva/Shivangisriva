@@ -42,8 +42,6 @@ Always curious. Always improving. Always building.
 
 📩 02shivangisrivastava@gmail.com  
 
-### 🎲 Random dev meme
-
-<img src="https://randommeme-five.vercel.app/" alt="Random Meme" width="500" />
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 ✨ *“Building today what I want to be known for tomorrow.”*
