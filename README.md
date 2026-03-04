@@ -38,10 +38,15 @@ Always curious. Always improving. Always building.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shivangisriva&theme=tokyonight)
 
+---
+
+![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ## 📫 Contact  
 
 📩 02shivangisrivastava@gmail.com  
-
-![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
 ✨ *“Building today what I want to be known for tomorrow.”*
