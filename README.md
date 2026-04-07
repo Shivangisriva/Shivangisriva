@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivangi Srivastava  
+**# 👋 Hi, I'm Shivangi Srivastava  
 
 💻 Full Stack Developer | 🚀 Building Scalable Web Apps | 🌱 Lifelong Learner  
 
@@ -52,3 +52,4 @@ Always curious. Always improving. Always building.
 ---
 
 ✨ *“Building today what I want to be known for tomorrow.”*
+**
