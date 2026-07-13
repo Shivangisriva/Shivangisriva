@@ -1,21 +1,20 @@
-# Hi there! 👾 I'm Shivangi Srivastava
+# 🚀 Holaaa! I'm Shivangi Srivastava
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+%26+Growing;Open+Source+Contributor)](https://git.io/typing-svg)
 
----
 
 ## 🚀 Welcome to My Dashboard!
 
 I'm a passionate Full Stack Developer with a drive for building impactful and scalable web applications. My journey involves continuous learning, exploring new technologies, and contributing to the vibrant developer community. I believe in writing clean, efficient, and maintainable code that solves real-world problems.
 
----
+
 
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Building full-stack projects to enhance my portfolio and explore new architectural patterns** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Advanced JavaScript frameworks and cloud deployment strategies (AWS/GCP)** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source Web Development Projects, especially those focused on MERN/MEAN stack or data visualization.**
-- 💬 Ask me about: **Full-stack web development, MERN stack, database design, and responsive UI/UX.** <!-- TODO: Add your areas of expertise -->
+- 🌱 Learning: **Advanced JavaScript frameworks and cloud deployment strategies** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Open Source Web Development Projects, especially those focused on MERN stack.**
+- 💬 Ask me about: **Full-stack web development, MERN stack, problem-solving, and responsive UI/UX.** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I love diving into complex coding challenges and solving puzzles in my free time!** <!-- TODO: Add a fun fact -->
 
 ---
@@ -34,23 +33,22 @@ I love exploring and mastering tools that help me build robust and efficient app
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-593D88?style=for-the-badge&logo=redux&logoColor=white)
 <!-- TODO: Add your actual frameworks -->
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <!-- TODO: Add your cloud/devops tools -->
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- TODO: Add your databases -->
 
 ### ⚙️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
+![Github Copilot](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!-- TODO: Add more tools you frequently use -->
 
