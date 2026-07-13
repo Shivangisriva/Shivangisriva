@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Shivangi Srivastava  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Java+MERNDeveloper;DSA+Enthusiast)](https://git.io/typing-svg)
 
 💻 Full Stack Developer | 🚀 Building Scalable Web Apps | 🌱 Lifelong Learner  
 Passionate about turning ideas into real-world products using modern web technologies.  
@@ -6,7 +7,6 @@ Always curious. Always improving. Always building.
 
 ---
 ![](https://komarev.com/ghpvc/?username=Shivangisriva&color=blue)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Java+Developer;DSA+Enthusiast)](https://git.io/typing-svg)
 
 ## 🌐 Connect With Me  
 
