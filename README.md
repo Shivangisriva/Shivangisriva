@@ -75,9 +75,9 @@ I love exploring and mastering tools that help me build robust and efficient app
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity -->
-- ⚙️ Contributed to [Repository Name] ([Link to Commit/PR])
-- ✨ Starred [Repository Name] ([Link to Repo])
-- 🗣️ Commented on [Issue/PR] in [Repository Name] ([Link to Issue/PR])
+- ⚙️ Contributed to [FossoLogy] ([Link to Commit/PR])
+- ✨ Starred [OweU] ([Link to Repo])
+- 🗣️ Commented on [FossoLogy] in [Repository Name] ([Link to Issue/PR])
 <!--END_SECTION:activity-->
 
 ---
