@@ -24,6 +24,7 @@ I'm a passionate Full Stack Developer with a drive for building impactful and sc
 I love exploring and mastering tools that help me build robust and efficient applications. Here's a glimpse into my preferred tech stack:
 
 ### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +34,9 @@ I love exploring and mastering tools that help me build robust and efficient app
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Typescript](https://img.shields.io/badge/Typescript-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-593D88?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white)
+
 <!-- TODO: Add your actual frameworks -->
 
 ### ☁️ Cloud & DevOps
@@ -48,7 +51,7 @@ I love exploring and mastering tools that help me build robust and efficient app
 
 ### ⚙️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github Copilot](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
+![Github Copilot](https://img.shields.io/badge/Copilot-1C78C0?style=for-the-badge&logo=copilot&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!-- TODO: Add more tools you frequently use -->
 
