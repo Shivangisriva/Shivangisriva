@@ -6,6 +6,7 @@ Always curious. Always improving. Always building.
 
 ---
 ![](https://komarev.com/ghpvc/?username=Shivangisriva&color=blue)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Java+Developer;DSA+Enthusiast)](https://git.io/typing-svg)
 
 ## 🌐 Connect With Me  
 
