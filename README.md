@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivangi Srivastava  
 
 💻 Full Stack Developer | 🚀 Building Scalable Web Apps | 🌱 Lifelong Learner  
-
+![](https://komarev.com/ghpvc/?username=Shivangisriva&color=blue)
 Passionate about turning ideas into real-world products using modern web technologies.  
 Always curious. Always improving. Always building.
 
