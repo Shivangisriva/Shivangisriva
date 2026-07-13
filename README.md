@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🚀 Holaaa! I'm Shivangi Srivastava
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+%26+Growing;Open+Source+Contributor)](https://git.io/typing-svg)
+
+</div>
 
 
 ## 🚀 Welcome to My Dashboard!
