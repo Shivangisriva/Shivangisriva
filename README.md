@@ -129,6 +129,20 @@ Here are a few projects that highlight my skills and passion for development. Di
 
 ---
 
+## 🏗️ Coding Profiles
+<div align="center">
+
+<a href="https://leetcode.com/u/shivangi2327cse1021/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/11ashivangi4dxf" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+</div>
+---
+
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
   - 📜 **Java Mastery Certification** (Udemy)
@@ -199,3 +213,6 @@ If you found my projects helpful or learned something from my code, consider sup
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivangisriva&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivangisriva&show_icons=true&theme=tokyonight)
