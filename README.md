@@ -83,7 +83,7 @@ I love exploring and mastering tools that help me build robust and efficient app
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity -->
-- ⚙️ Contributed to [FossoLogy] ([Link to Commit/PR])
+- ⚙️ Contributed to FossoLogy (https://github.com/fossology/fossology/issues/1943#issuecomment-4441587060)
 - ✨ Starred [OweU] ([Link to Repo])
 - 🗣️ Commented on [FossoLogy] in [Repository Name] ([Link to Issue/PR])
 <!--END_SECTION:activity-->
