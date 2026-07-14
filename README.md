@@ -40,11 +40,17 @@ I love exploring and mastering tools that help me build robust and efficient app
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/Typescript-593D88?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <!-- TODO: Add your actual frameworks -->
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Deployments
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <!-- TODO: Add your cloud/devops tools -->
 
 ### 🗄️ Databases
@@ -57,6 +63,8 @@ I love exploring and mastering tools that help me build robust and efficient app
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github Copilot](https://img.shields.io/badge/Copilot-1C78C0?style=for-the-badge&logo=copilot&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 <!-- TODO: Add more tools you frequently use -->
 
 ---
