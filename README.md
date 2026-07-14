@@ -80,13 +80,15 @@ I love exploring and mastering tools that help me build robust and efficient app
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Shivangisriva" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity -->
-- ⚙️ Contributed to FossoLogy (https://github.com/fossology/fossology/issues/1943#issuecomment-4441587060)
-- ✨ Starred [OweU] ([Link to Repo])
-- 🗣️ Commented on [FossoLogy] in [Repository Name] ([Link to Issue/PR])
-<!--END_SECTION:activity-->
+-## 🌟 Open Source & Project Activities
+
+| Project | Contribution |
+|----------|-------------|
+| 🚀 FOSSology | Contributed through issue discussions and community engagement |
+| ⭐ OweU | Starred and followed project development |
+| 💬 Open Source | Participated in issue/PR discussions and collaboration |
 
 ---
 
