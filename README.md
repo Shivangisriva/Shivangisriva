@@ -135,18 +135,14 @@ Here are a few projects that highlight my skills and passion for development. Di
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
-- 📜 **Full Stack Web Development Certification** (Udemy/Coursera)
+  - 📜 **Java Mastery Certification** (Udemy)
 - 🏆 **AWS Cloud Practitioner Certified**
 - 🥇 **HackerRank Problem Solving Badge** (Intermediate)
-- 📊 **KIET Group of Institutions - Top Performer in [Relevant Course]**
-
----
-
-## 📝 Latest Blog Posts
-<!-- TODO: Add your recent blog posts -->
-- 📖 [Demystifying MERN Stack: A Beginner's Guide](https://yourblog.com/mern-stack-guide)
-- 🔧 [Optimizing React Performance with Memoization and Hooks](https://yourblog.com/react-performance)
-- ☁️ [Deploying Your First Node.js App on AWS EC2](https://yourblog.com/aws-node-deploy)
+- 📊 **Academic Excellence Awardee** (KIET Group of Institutions)
+- 🏆 **Technical Excellence Awardee** (KIET Group of Institutions)
+- 📜 **BitBox 5.0 hackathon: 3rd position**
+- 🥇 **Innotech Technical Fest: 1st in Departmental Level**
+- 📊 **GATE 2026 Qualified**
 
 ---
 
@@ -191,8 +187,6 @@ If you found my projects helpful or learned something from my code, consider sup
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)] <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)] <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Shivangisriva) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
 
 </div>
 
