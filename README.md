@@ -82,7 +82,7 @@ I love exploring and mastering tools that help me build robust and efficient app
 
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity -->
--## 🌟 Open Source & Project Activities
+### 🌟 Open Source & Project Activities
 
 | Project | Contribution |
 |----------|-------------|
@@ -98,30 +98,40 @@ Here are a few projects that highlight my skills and passion for development. Di
 
 <div align="center">
 
-### 🌟 [FullStack-E-commerce-Platform](https://github.com/Shivangisriva/FullStack-E-commerce-Platform) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=FullStack-E-commerce-Platform&theme=tokyonight)](https://github.com/Shivangisriva/FullStack-E-commerce-Platform)
+### 💸 OweU
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=OweU&theme=tokyonight)](https://github.com/Shivangisriva/oweu)
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Stripe API
-**Status:** 🚀 Production Ready | ⭐ XX+ Stars | 🍴 YY+ Forks
-*A comprehensive e-commerce platform featuring user authentication, product management, shopping cart, and secure payment processing.*
-
----
-
-### 🔥 [Realtime-Chat-App](https://github.com/Shivangisriva/Realtime-Chat-App) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=Realtime-Chat-App&theme=tokyonight)](https://github.com/Shivangisriva/Realtime-Chat-App)
-
-**Tech Stack:** React • Socket.IO • Node.js • Express.js • PostgreSQL
-**Status:** 🚧 In Development | ⭐ XX+ Stars | 🍴 YY+ Forks
-*A real-time messaging application with user presence, private chats, and group functionality, demonstrating WebSocket proficiency.*
+**Tech Stack:** Next.js • TypeScript • Supabase • Tailwind CSS • PostgreSQL  
+**Status:** 🚀 Active Development  
+*A smart expense-splitting and debt-tracking platform that helps friends, roommates, and teams manage shared expenses with ease.*
 
 ---
 
-### ⚡ [Personal-Portfolio-Website](https://github.com/Shivangisriva/Personal-Portfolio-Website) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=Personal-Portfolio-Website&theme=tokyonight)](https://github.com/Shivangisriva/Personal-Portfolio-Website)
+### ❤️ Romeo & Juliet
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=Romeo-Juliet&theme=tokyonight)](https://github.com/Shivangisriva/profile_builder)
 
-**Tech Stack:** HTML • CSS • JavaScript • React • Vercel
-**Status:** ✅ Complete | ⭐ XX+ Stars | 🍴 YY+ Forks
-*My personal online portfolio showcasing my projects, skills, and professional journey.*
+**Tech Stack:** Next.js • TypeScript • Supabase • ElevenLabs AI • Tailwind CSS  
+**Status:** 🚀 Active Development  
+
+*Built an AI-powered matchmaking platform that uses an ElevenLabs voice agent to understand user interests and preferences, intelligently match compatible partners, and recommend suitable date destinations.*
+
+---
+
+### 🌍 TrekUp
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=TrekUp&theme=tokyonight)](https://github.com/Shivangisriva/TrekUp-Travel-and-Cultural-Preservation-website)
+
+**Tech Stack:** HTML • CSS • JavaScript • Leaflet.js • APIs  
+**Status:** 🚀 Active Development  
+*A travel and tourism platform helping users discover destinations, explore attractions, view maps, and plan memorable journeys.*
+
+---
+
+### 🚆 Rail Madad
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=Rail-Madad&theme=tokyonight)](https://github.com/Shivangisriva/Rail-Madad)
+
+**Tech Stack:** Java • Spring Boot • MySQL • REST APIs  
+**Status:** ✅ Complete  
+*A railway grievance and assistance management system enabling passengers to submit complaints, track requests, and receive timely resolutions.*
 
 </div>
 
