@@ -2,7 +2,7 @@
 
 # 🚀 Holaaa! I'm Shivangi Srivastava
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Always+Learning+%26+Growing;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Aspiring+Software+Engineer+%7C+Full+Stack+Developer;Building+Production-Ready+Applications+with+Modern+Technologies;Java+Developer+with+Strong+Problem+Solving+Skills;Exploring+Cloud+Computing%2C+System+Design%2C+and+Scalable+Architecture;Open+Source+Contributor+and+Lifelong+Learner;Turning+Ideas+Into+Reliable+and+Impactful+Products)](https://git.io/typing-svg)
 
 </div>
 
@@ -99,7 +99,6 @@ Here are a few projects that highlight my skills and passion for development. Di
 <div align="center">
 
 ### 💸 OweU
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=OweU&theme=tokyonight)](https://github.com/Shivangisriva/oweu)
 
 **Tech Stack:** Next.js • TypeScript • Supabase • Tailwind CSS • MongoDB  
 *A smart expense-splitting and debt-tracking platform that helps friends, roommates, and teams manage shared expenses with ease.*
@@ -107,7 +106,6 @@ Here are a few projects that highlight my skills and passion for development. Di
 ---
 
 ### ❤️ Romeo & Juliet
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=Romeo-Juliet&theme=tokyonight)](https://github.com/Shivangisriva/profile_builder)
 
 **Tech Stack:** Next.js • TypeScript • Supabase • ElevenLabs AI • Tailwind CSS  
 
@@ -116,7 +114,6 @@ Here are a few projects that highlight my skills and passion for development. Di
 ---
 
 ### 🌍 TrekUp
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=TrekUp&theme=tokyonight)](https://github.com/Shivangisriva/TrekUp-Travel-and-Cultural-Preservation-website)
 
 **Tech Stack:** HTML • CSS • JavaScript • Leaflet.js • APIs • React js
 *A travel and tourism platform helping users discover destinations, explore attractions, view maps, and plan memorable journeys.*
@@ -124,7 +121,6 @@ Here are a few projects that highlight my skills and passion for development. Di
 ---
 
 ### 🚆 Rail Madad
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivangisriva&repo=Rail-Madad&theme=tokyonight)](https://github.com/Shivangisriva/Rail-Madad)
 
 **Tech Stack:** MongoDB • Next js • React js • REST APIs  
 *A railway grievance and assistance management system enabling passengers to submit complaints, track requests, and receive timely resolutions.*
