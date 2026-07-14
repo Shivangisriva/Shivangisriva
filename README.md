@@ -79,7 +79,6 @@ I love exploring and mastering tools that help me build robust and efficient app
 
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Shivangisriva" alt="Contribution Calendar" width="100%"/>
-![Snake animation](https://raw.githubusercontent.com/Shivangisriva/Shivangisriva/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section to show your latest activity -->
