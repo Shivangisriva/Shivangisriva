@@ -126,7 +126,7 @@ Here are a few projects that highlight my skills and passion for development. Di
 *A railway grievance and assistance management system enabling passengers to submit complaints, track requests, and receive timely resolutions.*
 
 </div>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivangi2327cse1021)
 ---
 
 ## 🎓 Certifications & Achievements
