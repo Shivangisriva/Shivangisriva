@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=7DF9FF&center=true&vCenter=true&width=1200&lines=Aspiring+Software+Engineer+%7C+Full+Stack+Developer;Building+Production-Ready+Applications+with+Modern+Technologies;MERN+Developer+with+Strong+Problem+Solving+Skills;Exploring+Cloud+Computing%2C+System+Design%2C+and+Scalable+Architecture;Open+Source+Contributor+and+Lifelong+Learner;Turning+Ideas+Into+Reliable+and+Impactful+Products)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=7DF9FF&center=true&vCenter=true&width=1200&lines=Aspiring+Software+Engineer+%7C+Full+Stack+Developer;Building+Production-Ready+Applications+with+Modern+Technologies;MERN+Developer+with+Strong+Problem+Solving+Skills;Exploring+Cloud+Computing%2C+System+Design%2C+and+Scalable+Architecture;Open+Source+Contributor+and+Lifelong+Learner;Turning+Ideas+Into+Reliable+and+Impactful+Products)
 </div>
 
 
