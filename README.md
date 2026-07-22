@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivangisriva/Shivangisriva/main/assets/banner.png" />
+</p>
 <div align="center">
 
 # 🚀 Holaaa! I'm Shivangi Srivastava
