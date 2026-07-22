@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivangisriva/Shivangisriva/main/assets/banner.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Shivangi%20Srivastava&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20AWS%20Certified&descAlignY=65"/>
 </p>
 <div align="center">
 
