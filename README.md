@@ -12,7 +12,6 @@
 
 I'm a passionate Full Stack Developer with a drive for building impactful and scalable web applications. My journey involves continuous learning, exploring new technologies, and contributing to the vibrant developer community. I believe in writing clean, efficient, and maintainable code that solves real-world problems.
 
-[My ASCII Portrait](https://share.text-image.com/ea7f2f067aeecf1e)
 
 ## 🎯 Current Focus
 
