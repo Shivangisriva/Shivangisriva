@@ -130,7 +130,7 @@ Here are a few projects that highlight my skills and passion for development. Di
 *A railway grievance and assistance management system enabling passengers to submit complaints, track requests, and receive timely resolutions.*
 
 </div>
----
+
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, courses, achievements -->
@@ -176,18 +176,6 @@ I'm always eager to connect with fellow developers, recruiters, and collaborator
 
 ---
 
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)] <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)] <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-</div>
-
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
 </div>
@@ -197,7 +185,7 @@ If you found my projects helpful or learned something from my code, consider sup
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivangisriva&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+  ### 🚀 "From algorithms to applications — creating technology that matters."
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
