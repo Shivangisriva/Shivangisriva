@@ -165,18 +165,14 @@ Here are a few projects that highlight my skills and passion for development. Di
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:000428,100:00C6FF&text=Let's%20Build%20Something%20Amazing&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Connect%20with%20me%20for%20Projects%2C%20Internships%2C%20and%20Open%20Source%20Collaboration&descAlignY=70"/>
 </p>
+<p align="center">
 I'm always eager to connect with fellow developers, recruiters, and collaborators. Feel free to reach out!
-
+</p>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivasri02/) <!-- TODO: Add your LinkedIn -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-mcfvao965-shivangisrivas-projects.vercel.app/) <!-- TODO: Add your portfolio -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:02shivasri@gmail.com) <!-- TODO: Add your email -->
-
-### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/Shivangisriva?style=social)](https://github.com/Shivangisriva)
-
-</div>
 
 ---
 
