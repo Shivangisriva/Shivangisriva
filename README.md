@@ -163,7 +163,7 @@ Here are a few projects that highlight my skills and passion for development. Di
 ## 🌐 Let's Connect & Collaborate
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000428,100:00C6FF&text=Let's%20Connect%20%26%20Collaborate&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Open%20to%20Software%20Engineering%20Internships%20•%20Full%20Stack%20Development%20•%20Open%20Source%20Projects&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:000428,100:00C6FF&text=Let's%20Build%20Something%20Amazing&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Connect%20with%20me%20for%20Projects%2C%20Internships%2C%20and%20Open%20Source%20Collaboration&descAlignY=70"/>
 </p>
 I'm always eager to connect with fellow developers, recruiters, and collaborators. Feel free to reach out!
 
