@@ -46,6 +46,7 @@ I love exploring and mastering tools that help me build robust and efficient app
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 [![OpenAI SDK](https://img.shields.io/badge/OpenAI-SDK-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/docs)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-AI%20Voice-black?style=for-the-badge&logoColor=white)
 
 <!-- TODO: Add your actual frameworks -->
 
